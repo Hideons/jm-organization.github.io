@@ -9,8 +9,3 @@ gems:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-redirect-from
-
-permalink: '/posts/:year/:month/:day/:title.html'
-paginate: 5
-paginate_path: "/?page=:num"
-url: 'hideons.github.io/jm-organization.github.io'
