@@ -17,3 +17,5 @@ url: 'http://www.jm-org.net'
 
 comments: true
 vk-support: true
+
+theme: jekyll-theme-cayman
