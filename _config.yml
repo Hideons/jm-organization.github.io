@@ -3,6 +3,10 @@ exclude:
   - /*.pdn
   - /*.xcf
   - /Thumbs.db
+  
+ # Conversion
+ 
+highlighter: rouge 
 
 gems:
   - jekyll-paginate
