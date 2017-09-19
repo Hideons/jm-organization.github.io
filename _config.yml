@@ -4,14 +4,6 @@ exclude:
   - /*.xcf
   - /Thumbs.db
   
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
 gems:
   - jekyll-paginate
   - jekyll-sitemap
