@@ -13,4 +13,4 @@ gems:
 permalink: '/posts/:year/:month/:day/:title.html'
 paginate: 5
 paginate_path: "/?page=:num"
-url: 'http://www.jm-org.net'
+url: 'hideons.github.io/jm-organization.github.io'
